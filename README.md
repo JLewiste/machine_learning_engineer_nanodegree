@@ -1,4 +1,4 @@
-# Machine-Learning-Engineer-Nanodegree
+# Machine learning engineer Nanodegree
 
 ![Pictures](Pictures/svhn.png)
 
